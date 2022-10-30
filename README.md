@@ -3,6 +3,6 @@
 Copy the code.
 go to the dawn theme> Edit Code
 Find > header.liquid
-Paste the code above </body>
+Paste the code above the body tag end.
 
 Done.
